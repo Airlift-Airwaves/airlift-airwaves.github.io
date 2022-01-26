@@ -351,6 +351,7 @@
   line-height: 130%;
   text-decoration: none;
   cursor: pointer;
+  background-color: #1200d3;
 }
 
 .card-button:hover {
